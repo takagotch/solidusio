@@ -1,4 +1,5 @@
 ### solidusio
+---
 EC
 before https://github.com/takagotch/spree
 
